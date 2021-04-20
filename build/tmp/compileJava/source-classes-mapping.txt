@@ -1,0 +1,8 @@
+com/simplesoftware/model/entities/Aluno.java
+ com.simplesoftware.model.entities.Aluno
+com/simplesoftware/model/entities/Estado.java
+ com.simplesoftware.model.entities.Estado
+com/simplesoftware/model/execution/ExecutionPart3.java
+ com.simplesoftware.model.execution.ExecutionPart3
+com/simplesoftware/model/execution/ExecutionPart2.java
+ com.simplesoftware.model.execution.ExecutionPart2
